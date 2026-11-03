@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 ARC Raiders FPS Dashboard · Program documentation and download information.
-                                                                                                    
